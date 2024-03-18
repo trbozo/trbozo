@@ -1,11 +1,4 @@
-### Hi there 👋
 
-
-
-
-<!--
-
-<h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="https://github.com/trbozo/trbozo/blob/main/images/header-gif.gif" alt="header"/>
 </div>
