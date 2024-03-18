@@ -43,9 +43,9 @@ My fervent dedication to the field, coupled with a solid foundation in both tech
 <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=Jenkins&logoColor=red"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-white?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Wordpress-white?style=for-the-badge&logo=wordpress&logoColor=21759B"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ChatGPT-white?style=for-the-badge&logo=OpenAI&logoColor=21759B"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Azure-white?style=for-the-badge&logo=microsoft-azure&logoColor=0089D6" />
+<img src="https://img.shields.io/badge/Wordpress-white?style=for-the-badge&logo=wordpress&logoColor=21759B"/>
+<img src="https://img.shields.io/badge/ChatGPT-white?style=for-the-badge&logo=OpenAI&logoColor=21759B"/>
 
 <br>
 
@@ -53,7 +53,7 @@ My fervent dedication to the field, coupled with a solid foundation in both tech
 <img src="https://img.shields.io/badge/TestNG-grey?style=for-the-badge&logo=testng&logoColor=14354C"/>
 <img src="https://img.shields.io/badge/Maven-grey?style=for-the-badge&logo=maven&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=HTML&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/RESTful API-grey?style=for-the-badge&logo=RESTfulAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-grey?style=for-the-badge&logo=JDBC&logoColor=black"/>
 <img src="https://img.shields.io/badge/IntelliJ IDE-grey?style=for-the-badge&logo=lntelliJ&logoColor=black"/>
