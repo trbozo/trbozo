@@ -1,8 +1,10 @@
 
-<div align="center">
+<h1 align="center"> 👋 </h1>
+
   <img src="https://github.com/trbozo/trbozo/blob/main/images/header-gif.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Learning)</p> 
+
+<p align="center"> (Open for Learning)</p>
+
 
 <p align="center">
   <samp>I possess extensive expertise in Manual and Automation Testing, bolstered by my proficiency in Java programming language and a comprehensive array of testing tools. My skill set includes Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured for API Testing, as well as MySQL and JDBC for Database Testing.
@@ -12,6 +14,8 @@ My fervent dedication to the field, coupled with a solid foundation in both tech
   <br> <br>
   <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" alt="https://github.com/gauravkhuraana" />
 <img src="https://img.shields.io/badge/Photographer-FF9522?style=for-the-badge&logo=gallery&logoColor=white" alt="https://github.com/gauravkhuraana" />
+<br>
+<img src="https://img.shields.io/badge/made%20in-%F0%9F%87%AC%F0%9F%87%A7United Kingdom-blue.svg"/>
 
 
 </p>
