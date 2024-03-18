@@ -1,8 +1,10 @@
+
 <h1 align="center"> 👋 </h1>
 
   <img src="https://github.com/trbozo/trbozo/blob/main/images/header-gif.gif" alt="header"/>
 
 <p align="center"> (Open for Learning)</p>
+
 
 <p align="center">
   <samp>I possess extensive expertise in Manual and Automation Testing, bolstered by my proficiency in Java programming language and a comprehensive array of testing tools. My skill set includes Selenium, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, and Rest Assured for API Testing, as well as MySQL and JDBC for Database Testing.
