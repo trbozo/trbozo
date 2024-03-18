@@ -7,7 +7,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="/images/header-gif.gif" alt="header"/>
+  <img src="https://github.com/trbozo/trbozo/blob/main/images/header-gif.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Learning)</p>  --->  
 
